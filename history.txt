@@ -1,1 +1,3 @@
 Archivo en que iré poniendo la historia de este archivo como si fueran commits
+
+Segunda edición del archivo, añado esta línea.
