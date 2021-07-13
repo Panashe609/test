@@ -3,3 +3,5 @@ Archivo en que iré poniendo la historia de este archivo como si fueran commits
 Segunda edición del archivo, añado esta línea.
 
 Este es un cambio hecho desde la branch plan.
+
+Cambio hecho desde GitHub
