@@ -5,3 +5,5 @@ Segunda edición del archivo, añado esta línea.
 Este es un cambio hecho desde la branch plan.
 
 Cambio hecho desde GitHub
+
+Nueva línea gregada desde el usuario Panashe de forma remota.
