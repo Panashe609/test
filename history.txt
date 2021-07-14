@@ -7,3 +7,5 @@ Este es un cambio hecho desde la branch plan.
 Cambio hecho desde GitHub
 
 Nueva línea gregada desde el usuario Panashe de forma remota.
+
+Así es como estoy haciendo este cambio desde un Fork para luego hacer un pull request.
