@@ -7,3 +7,5 @@ Este es un cambio hecho desde la branch plan.
 Cambio hecho desde GitHub
 
 Nueva línea gregada desde el usuario Panashe de forma remota.
+
+Cambio para complicar quien este haciendo Fork.
